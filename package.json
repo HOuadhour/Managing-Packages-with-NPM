@@ -4,6 +4,7 @@
   "description": "Learning how to add a description key to the package file",
   "keywords": ["freecodecamp", "challenge", "exercice"],
   "license": "MIT",
+  "version": "21.02.20",
   "dependencies": {
     "express": "^4.14.0"
   },
