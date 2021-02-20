@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "HOuadhour",
   "description": "Learning how to add a description key to the package file",
+  "keywords": ["freecodecamp", "challenge", "exercice"],
   "dependencies": {
     "express": "^4.14.0"
   },
